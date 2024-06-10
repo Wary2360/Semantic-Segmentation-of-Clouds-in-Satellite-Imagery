@@ -6,7 +6,7 @@
 | Methods | Private Score |
 | ------- | ------------- |
 | 베이스라인 | 0.5874         |
-| purposed method | 0.8411         |
+| 제안 방법 | 0.8411         |
 
 ## Using
 ### Train:
@@ -19,3 +19,8 @@
 
 ## Methods Explain
 - `Clouds_Segmentation.pdf`
+
+## Utils
+- `cloud_gen.py`
+- Thin Cloud Class 성능을 높이기 위한 데이터 증대 방법
+- https://github.com/strath-ai/SatelliteCloudGenerator
