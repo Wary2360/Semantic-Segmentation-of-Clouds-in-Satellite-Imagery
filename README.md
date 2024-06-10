@@ -18,4 +18,4 @@
 - Kaggle에 Import하여 진행
 
 ## Methods Explain
-- `presentation.pptx`
+- `Clouds_Segmentation.pdf`
